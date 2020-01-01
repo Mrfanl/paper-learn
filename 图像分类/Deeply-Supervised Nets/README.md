@@ -1,0 +1,1 @@
+通过在原[network in network](https://github.com/Mrfanl/paper-learn/tree/master/图像分类/Network In Network) 代码基础上在每个隐藏层添加softmax，在最终loss的计算加上隐层的伴随损失函数。

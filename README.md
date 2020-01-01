@@ -7,6 +7,8 @@ Record the learning process of the paper
 
 [Network In Network](https://arxiv.org/abs/1312.4400)
 
+[Deeply-Supervised Nets](https://arxiv.org/abs/1409.5185)
+
 
 
 #### 二、网络结构搜索
