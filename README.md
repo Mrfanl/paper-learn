@@ -9,6 +9,8 @@ Record the learning process of the paper
 
 [Deeply-Supervised Nets](https://arxiv.org/abs/1409.5185)
 
+[Highway Networks](https://arxiv.org/abs/1505.00387)
+
 
 
 #### 二、网络结构搜索
