@@ -11,6 +11,8 @@ Record the learning process of the paper
 
 [Highway Networks](https://arxiv.org/abs/1505.00387)
 
+[THE ALL CONVOLUTIONAL NET](https://arxiv.org/pdf/1412.6806.pdf)
+
 
 
 #### 二、网络结构搜索
